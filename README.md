@@ -57,7 +57,7 @@
   <summary>🔹 Como Rodar o Projeto</summary>
   <p>Clone este repositório e abra o arquivo <code>index.html</code> no seu navegador:</p>
   <pre>
-    git clone https://github.com/SEU_USUARIO/alura-midi.git
+    git clone https://github.com/vitoriafmachado/alura-midi.git
     cd alura-midi
     # Abra o arquivo index.html no seu navegador
   </pre>
