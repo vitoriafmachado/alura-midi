@@ -2,10 +2,10 @@
     Alura midi
 </h1>
 
-
+<p>O Alura MIDI é um instrumento musical de interface digitial (MIDI), que reproduz sons de instrumentos musicais, por enquanto de uma bateria, ao usuário clicar ou pressionar com teclado em seus botões.</p>
 
  <p align="center">
-   <img src = "images/bateria.png" style="width: 30%; height: auto;">
+   <img src = "images/136043109-1fc85faa-8cfb-4056-a144-98f0f75c2565.png" style="width: 30%; height: auto;">
 </p>
 
 <br><br>
@@ -42,4 +42,37 @@
   </ul>
 </details>
 
+<details>
+  <summary>🔹 Tecnologias Utilizadas</summary>
+  <p>As tecnologias principais utilizadas neste projeto foram:</p>
+  <ul>
+    <li><strong>HTML</strong> - Para estruturar a página e os elementos interativos;</li>
+    <li><strong>CSS</strong> - Para estilizar os botões e a página;</li>
+    <li><strong>JavaScript</strong> - Para criar a lógica de interação dos botões e sons.</li>
+  </ul>
+</details>
+
+
+<details>
+  <summary>🔹 Como Rodar o Projeto</summary>
+  <p>Clone este repositório e abra o arquivo <code>index.html</code> no seu navegador:</p>
+  <pre>
+    git clone https://github.com/SEU_USUARIO/alura-midi.git
+    cd alura-midi
+    # Abra o arquivo index.html no seu navegador
+  </pre>
+</details>
+
+
+ # 📁 Acesso ao projeto
+ https://vitoriafmachado.github.io/alura-midi/
+
+ <br>
+ <details>
+<summary> instrutora </summary>
+     <pre>
+<p>Vanessa me tonini - Alura </p>
+     </pre>
+
+ </details>
 
